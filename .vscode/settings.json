@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "SINGLY_L.C": "cpp",
+    "SL_OP.C": "cpp",
+    "POLY.C": "cpp",
+    "BALANCED.C": "cpp",
+    "MERGE.C": "cpp",
+    "QUICK.C": "cpp",
+    "POSTFIXE.C": "cpp"
+  }
+}
